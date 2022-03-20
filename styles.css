@@ -6,6 +6,14 @@
     background-color: #1F2937;
 }
 
+.bg-color2{
+    background-color: #E5E7EB;
+}
+
+.bg-color3{
+    background-color: #3882F6;
+}
+
 .color1{
     color: #F9FAF8;
 }
@@ -27,6 +35,13 @@
 .font4{
     font-size: 36px;
     font-weight: bold;
+    color: #1F2937;
+}
+
+.font5{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
     color: #1F2937;
 }
 
@@ -101,6 +116,10 @@
     margin-right: 400px;
 }
 
+.pb-50{
+    padding-bottom: 50px;
+}
+
 .btn-color1{
     background-color: #3882F6;
 }
@@ -123,6 +142,11 @@
     border-radius: 20px;
 }
 
+.border4{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
 .img1{
     height: auto;
     width: 800px;
@@ -139,4 +163,8 @@
 
 .justify-content1{
     justify-content: space-between;
+}
+
+.float1{
+    float: right;
 }
